@@ -1,3 +1,22 @@
+
+—
+
+layout: post
+
+author: Wile E. Coyote
+
+title: Exciting New Products Coming in 2018!
+
+image:
+
+    feature: acme-logo.jpg
+
+comments: true
+
+—
+
+
+
 ## Saqib S Khan's Blog
 
 You can use the [editor on GitHub](https://github.com/iamsaqibkhans/iamsaqibkhans.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

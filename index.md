@@ -1,4 +1,4 @@
-
+---
 
 layout: post
 
@@ -11,6 +11,8 @@ image:
     feature: acme-logo.jpg
 
 comments: true
+
+---
 
 
 

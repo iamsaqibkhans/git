@@ -1,5 +1,4 @@
 
-—
 
 layout: post
 
@@ -13,7 +12,6 @@ image:
 
 comments: true
 
-—
 
 
 
